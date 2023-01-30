@@ -1,10 +1,10 @@
-title: Website title
+title: ERIM-RDMKit
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: Website title
+topnav_title: ERIM-RDMKit
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "Example of ELIXIR toolkit theme as a remote jekyll theme"
+description: "RDMToolkit for Researchers at Erasmus University"
 # Metadata description of the website
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.17.0
@@ -14,14 +14,17 @@ exclude:
   - vendor
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
       permalink: /:basename
       layout: "page"
       sidebar: main
+  - scope:
+      path: "pages/data_life_cycle"
+    values:
+      type: data_life_cycle
 
 plugins:
   - jemoji

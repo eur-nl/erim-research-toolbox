@@ -1,10 +1,15 @@
 /*-----Theme colors-----*/
-$primary:       #0d6efd;
-$secondary:     #6c757d;
-$light:         #f8f9fa;
-$dark:          #212529;
+// ERIM logo colors are
+// #000847 ----- CMYK: 100/90/13/68
+// #d1882a ----- CMYK: 0/35/80/18
+// #b8c3c3 ----- CMYK: 15/10/10/15
+$primary: #000847;
+$secondary: #111111;
+$light: #e2d9d7;
+$dark: #212529;
 
 /*-----Custom values for Bootstrap variables-----*/
 $link-decoration: none;
 $nav-link-color: $dark;
 $nav-link-hover-color: $primary;
+$font-family-sans-serif: "Museo Sans", sans-serif;

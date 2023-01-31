@@ -1,7 +1,7 @@
 subitems:
-  - title: Home
-    url: /index
-  - title: Example page
-    url: /example_page
-
-  
+  - title: Data life cycle
+    description: Start here to get an overview of research data management based on stages in the data life cycle.
+    url: #
+    subitems:
+      - RDM: True
+    image_url: /assets/img/section-icons/arrows-spin-light.svg

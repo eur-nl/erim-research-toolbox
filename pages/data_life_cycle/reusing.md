@@ -1,26 +1,26 @@
 ---
 title: Reusing
-page_id: reuse
+# page_id: reuse
 description: Introduction to data reuse.
 contributors: [RDM Kit Team]
-related_pages:
-  your_tasks:
-    [
-      data_analysis,
-      transfer,
-      existing_data,
-      identifiers,
-      licensing,
-      data_provenance,
-      data_quality,
-    ]
-training:
-  - name: Training in TeSS
-    registry: TeSS
-    url: https://tess.elixir-europe.org/search?q=%22data+reuse%22#materials
-dsw:
-  - name: Is there any pre-existing data?
-    uuid: efc80cc8-8318-4f8c-acb7-dc1c60e491c1
+# related_pages:
+#   your_tasks:
+#     [
+#       data_analysis,
+#       transfer,
+#       existing_data,
+#       identifiers,
+#       licensing,
+#       data_provenance,
+#       data_quality,
+#     ]
+# training:
+#   - name: Training in TeSS
+#     registry: TeSS
+#     url: https://tess.elixir-europe.org/search?q=%22data+reuse%22#materials
+# dsw:
+#   - name: Is there any pre-existing data?
+#     uuid: efc80cc8-8318-4f8c-acb7-dc1c60e491c1
 ---
 
 ## What is data reuse?

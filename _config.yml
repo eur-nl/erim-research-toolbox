@@ -7,7 +7,7 @@ topnav_title: ERIM-RDMKit
 description: "RDMToolkit for Researchers at Erasmus University"
 # Metadata description of the website
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.17.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.23.0
 
 exclude:
   - README.md

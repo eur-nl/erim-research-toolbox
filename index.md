@@ -3,6 +3,8 @@ title: Data life cycle
 hide_sidebar: true
 ---
 
+<body onload="parent.postMessage(document.body.scrollHeight, 'https://www.erim.eur.nl/');">
+
 <div class="main_rdm mt-5 d-flex justify-content-center">
     <svg version="1.1" id="data-life-cycle-index" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
     viewBox="0 0 250.9 251" xml:space="preserve" height="24em">
@@ -152,3 +154,4 @@ hide_sidebar: true
     </svg>
 
 </div>
+</body>

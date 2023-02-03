@@ -1,5 +1,5 @@
 ---
-title: Data life cycle
+title: Research project life cycle
 hide_sidebar: true
 ---
 

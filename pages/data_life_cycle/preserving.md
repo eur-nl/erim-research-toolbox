@@ -2,7 +2,7 @@
 title: Preserving
 # page_id: preserve
 description: Introduction to data preservation.
-contributors: [RDM Kit Team]
+contributors: []
 # related_pages:
 #   your_tasks:
 #     [

@@ -2,7 +2,7 @@
 title: Sharing
 # page_id: share
 description: Introduction to data sharing.
-contributors: [RDM Kit Team]
+contributors: []
 # related_pages:
 #   your_tasks:
 #     [

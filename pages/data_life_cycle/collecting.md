@@ -15,7 +15,7 @@ description: Introduction to data collection.
 #       storage,
 #       data_provenance,
 #     ]
-contributors: [RDM Kit Team]
+contributors: []
 # training:
 #   - name: Training in TeSS
 #     registry: TeSS

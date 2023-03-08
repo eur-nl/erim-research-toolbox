@@ -2,7 +2,7 @@
 title: Reusing
 # page_id: reuse
 description: Introduction to data reuse.
-contributors: [RDM Kit Team]
+contributors: []
 # related_pages:
 #   your_tasks:
 #     [

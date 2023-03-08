@@ -1,10 +1,10 @@
-title: ERIM-RDMKit
+title: ERIM Research Toolbox
 # This appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-topnav_title: ERIM-RDMKit
+topnav_title: ERIM Research Toolbox
 # Optional: this appears on the top navigation bar next to the main_logo.svg icon
 
-description: "RDMToolkit for Researchers at Erasmus University"
+description: "ERIM Research Toolbox for Researchers at Erasmus University"
 # Metadata description of the website
 
 remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.23.0

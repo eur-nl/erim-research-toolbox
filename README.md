@@ -2,7 +2,7 @@
 
 # ERIM Research Toolbox
 
-A modification of RDMKit to be used by the Erasmus Research Institute of Management community. The original [RDMToolkit](https://rdmkit.elixir-europe.org/) ([GitHub](https://github.com/elixir-europe/rdmkit)) is published and maintained by [ELIXIER-CONVERGENCE](https://elixir-europe.org/about-us/how-funded/eu-projects/converge) ([GitHub](https://github.com/elixir-europe)).
+A research toolbox for the Erasmus Research Institute of Management (ERIM) community. This works is an independent fork of [RDMToolkit](https://rdmkit.elixir-europe.org/) ([GitHub](https://github.com/elixir-europe/rdmkit)).
 
 ## How to run locally
 

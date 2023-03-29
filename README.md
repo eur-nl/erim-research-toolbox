@@ -2,7 +2,7 @@
 
 # ERIM Research Toolbox
 
-A research toolbox for the Erasmus Research Institute of Management (ERIM) community. This works is an independent fork of [RDMToolkit](https://rdmkit.elixir-europe.org/) ([GitHub](https://github.com/elixir-europe/rdmkit)).
+A research toolbox for the Erasmus Research Institute of Management (ERIM) community. This works is an independent fork of [RDMkit](https://rdmkit.elixir-europe.org/) ([GitHub](https://github.com/elixir-europe/rdmkit)).
 
 ## How to run locally
 

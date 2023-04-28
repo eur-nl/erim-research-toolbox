@@ -36,11 +36,12 @@ You can also reuse existing data in your project. This can either be individual 
 ## What options do I have for collecting data as an ERIM member? 
 
 ERIM has several options for its researchers to collect data: 
--[ERIM Databases](https://www.erim.eur.nl/research-integrity/rdm/databases-2/) provides a list of all the databases ERIM's reseachers can access to.
--[Erasmus Data Service Centre (EDSC)](https://www.erim.eur.nl/research-support/erasmus-data-service-centre-edsc/)
--[ERIM Support Programs (ESP)](https://www.erim.eur.nl/research-support/erim-support-programmes-esp/)
--[Erasmus Survey Centre](https://www.erim.eur.nl/research-support/erasmus-survey-centre-esc/)
--[Erasmus Behavioural Lab (EBL)](https://ebl.eur.nl/)
+
+- [ERIM Databases](https://www.erim.eur.nl/research-integrity/rdm/databases-2/) provides a list of all the databases ERIM's reseachers can access to.
+- [Erasmus Data Service Centre (EDSC)](https://www.erim.eur.nl/research-support/erasmus-data-service-centre-edsc/)
+- [ERIM Support Programs (ESP)](https://www.erim.eur.nl/research-support/erim-support-programmes-esp/)
+- [Erasmus Survey Centre](https://www.erim.eur.nl/research-support/erasmus-survey-centre-esc/)
+- [Erasmus Behavioural Lab (EBL)](https://ebl.eur.nl/)
 
 <!-- ERIM specific info (end) -->
 

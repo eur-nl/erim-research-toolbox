@@ -38,6 +38,17 @@ Advantages of making a DMP:
 - it helps to identify risks in data handling and apply solutions at early stage;
 - it facilitates data sharing, reuse and preservation.
 
+<!-- ERIM focused information (beggining) -->
+
+## How to write a data management plan? 
+
+There is a EUR specific DMP template, which can be completed using [DMPonline-Erasmus](https://dmponline.eur.nl/). 
+The template was created by the RDM specialists at UL/EDSC and the data stewards. It has been approved by NWO and ZonMw and it is also the default DMP format supported by the EUR. 
+
+You can find a quick guide to DMPOnline here and if you need support with your data mangement plan, please do not hesitate to contact ERIM's Research Data Steward at data@erim.eur.nl
+
+<!-- ERIM focused information (end) -->
+
 ## What should be considered for data management planning?
 
 Several aspects should be taken into account when making a data management plan.

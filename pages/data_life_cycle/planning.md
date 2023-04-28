@@ -52,6 +52,8 @@ If you need support with your data mangement plan, please do not hesitate to con
 
 <!-- ERIM focused information (end) -->
 
+<!-- This is not needed anymore
+
 ## What should be considered for data management planning?
 
 Several aspects should be taken into account when making a data management plan.
@@ -64,4 +66,4 @@ Several aspects should be taken into account when making a data management plan.
 
 - Due to the variety of aspects that need to be addressed in a DMP, it is better to find recommendations and obtain help from your institution support services, such as IT department, library, data managers or data stewards, legal or tech transfer team and data protection officer.
 
-- Explore best practices, guidelines, tools and resources for research data management described in this website.
+- Explore best practices, guidelines, tools and resources for research data management described in this website.   -->

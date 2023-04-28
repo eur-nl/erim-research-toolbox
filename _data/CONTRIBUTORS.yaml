@@ -10,3 +10,9 @@
 #    affiliation: affiliation
 #    image_url: absolute path to image (default image from github)
 
+Dr. Lizette Guzman-Ramirez:
+  git: LizGuzRam
+  email: guzmanramirez@rsm.nl
+  role: Maintainer
+  affiliation: Erasmus University Rotterdam
+

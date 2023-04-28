@@ -38,7 +38,7 @@ Advantages of making a DMP:
 - it helps to identify risks in data handling and apply solutions at early stage;
 - it facilitates data sharing, reuse and preservation.
 
-<!-- ERIM focused information (beggining) -->
+<!-- ERIM focused information (begin) -->
 
 ## How to write a data management plan? 
 
@@ -50,12 +50,16 @@ You can find a quick guide to DMPOnline [here](https://www.erim.eur.nl/research-
 
 If you need support with your data mangement plan, please do not hesitate to contact ERIM's Research Data Steward at data@erim.eur.nl
 
+## What should also be considered for research planning?
+
+In case you need funding support, please contact your [faculty funding team](https://www.erim.eur.nl/research-support/funding/) for any advise and support on looking and applying for funding.
+
+
+  
+
 <!-- ERIM focused information (end) -->
 
-<!-- This is not needed anymore
-
-## What should be considered for data management planning?
-
+<!-- This is now hidden
 Several aspects should be taken into account when making a data management plan.
 
 - Research organisation and funders often require a DMP as part of the application for grants or later when the project is funded. Therefore, consider guidelines, policies and tools for data management planning required by your funder.
@@ -66,4 +70,4 @@ Several aspects should be taken into account when making a data management plan.
 
 - Due to the variety of aspects that need to be addressed in a DMP, it is better to find recommendations and obtain help from your institution support services, such as IT department, library, data managers or data stewards, legal or tech transfer team and data protection officer.
 
-- Explore best practices, guidelines, tools and resources for research data management described in this website.   -->
+- Explore best practices, guidelines, tools and resources for research data management described in this website. -->

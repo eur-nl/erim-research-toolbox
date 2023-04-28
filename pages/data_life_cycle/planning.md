@@ -2,7 +2,7 @@
 title: Planning
 description: Introduction to data management planning.
 # page_id: plan
-contributors: []
+contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 # related_pages:
 #   your_tasks:
 #     [compliance, dmp, data_protection, dm_coordination, machine_actionability]

@@ -31,7 +31,7 @@ Data collection is the process where information is gathered about specific vari
 
 You can also reuse existing data in your project. This can either be individual earlier collected datasets, reference data from curated resources or consensus data like reference genomes. For more information see [Reuse](reusing) in the data life cycle.
 
-<! -- ERIM specific info (begin)-->
+<!-- ERIM specific info (begin)-->
 
 ## What options do I have for collecting data as an ERIM member? 
 
@@ -42,7 +42,7 @@ ERIM has several options for its researchers to collect data:
 -[Erasmus Survey Centre](https://www.erim.eur.nl/research-support/erasmus-survey-centre-esc/)
 -[Erasmus Behavioural Lab (EBL)](https://ebl.eur.nl/)
 
-<! -- ERIM specific info (end) -->
+<!-- ERIM specific info (end) -->
 
 ## Why is data collection important?
 

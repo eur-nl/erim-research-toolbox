@@ -15,7 +15,7 @@ description: Introduction to data collection.
 #       storage,
 #       data_provenance,
 #     ]
-contributors: []
+contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 # training:
 #   - name: Training in TeSS
 #     registry: TeSS
@@ -30,6 +30,20 @@ contributors: []
 Data collection is the process where information is gathered about specific variables of interest either using instrumentation or other methods (e.g. questionnaires, patient records). While data collection methods depend on the field and research subject, it is important to ensure data quality.
 
 You can also reuse existing data in your project. This can either be individual earlier collected datasets, reference data from curated resources or consensus data like reference genomes. For more information see [Reuse](reusing) in the data life cycle.
+
+<!-- ERIM specific info (begin)-->
+
+## What options do I have for collecting data as an ERIM member? 
+
+ERIM has several options for its researchers to collect data: 
+
+- [ERIM Databases](https://www.erim.eur.nl/research-integrity/rdm/databases-2/) 
+- [Erasmus Data Service Centre (EDSC)](https://www.erim.eur.nl/research-support/erasmus-data-service-centre-edsc/)
+- [ERIM Support Programs (ESP)](https://www.erim.eur.nl/research-support/erim-support-programmes-esp/)
+- [Erasmus Survey Centre](https://www.erim.eur.nl/research-support/erasmus-survey-centre-esc/)
+- [Erasmus Behavioural Lab (EBL)](https://ebl.eur.nl/)
+
+<!-- ERIM specific info (end) -->
 
 ## Why is data collection important?
 

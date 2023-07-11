@@ -48,7 +48,7 @@ The following considerations are important for data processing:
   - significance of empty fields and meaning of any special value;
   - all relationships between data fields (e.g. if a dataset contains "medication" and "disease", is that medication actually used to treat the disease? Or is it a medication that the patient is using for other reasons?).
 
- <!-- ERIM focused information (begin) -->
+<!-- ERIM focused information (begin) -->
 
 ## Where do I store my data? 
 

@@ -2,7 +2,7 @@
 title: Preserving
 # page_id: preserve
 description: Introduction to data preservation.
-contributors: []
+contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 # related_pages:
 #   your_tasks:
 #     [
@@ -53,11 +53,11 @@ Not all data should be preserved. Preservation should be applied to an appropria
 - data that will probably being reused in the future;
 - data of great value for society (scientifically, historically or culturally).
 
-Data preservation must be done by experts and dedicated services. Preservation of digital information requires planning, policies, resources (time, funds, people) as well as the right technology to ensure that the data stays functional and that it can be accessed (see [ISO Standards for quality, preservation and integrity of information](https://www.iso.org/committee/53666/x/catalogue/)). Hence, special long term data repositories should be used for digital preservation, where the data is actively maintained and information integrity is monitored. Therefore, it is best to consider different options.
+<!-- Data preservation must be done by experts and dedicated services. Preservation of digital information requires planning, policies, resources (time, funds, people) as well as the right technology to ensure that the data stays functional and that it can be accessed (see [ISO Standards for quality, preservation and integrity of information](https://www.iso.org/committee/53666/x/catalogue/)). Hence, special long term data repositories should be used for digital preservation, where the data is actively maintained and information integrity is monitored. Therefore, it is best to consider different options.
 
 - Contact the IT department or the library or the data center of your institution.
 - Check if national services are available.
-- Choose trustworthy research data repositories or deposition databases, based on your data type. Repositories could be publicly accessible and allow you to also publish your data.
+- Choose trustworthy research data repositories or deposition databases, based on your data type. Repositories could be publicly accessible and allow you to also publish your data. --!>
 
 When preparing data for preservation several requirements need to be fulfilled.
 
@@ -68,6 +68,13 @@ When preparing data for preservation several requirements need to be fulfilled.
 - Ensure that data is well organised.
 - Ensure that a consistent naming scheme is used.
 - Use standard, open source, file formats instead of proprietary ones.
+
+<!-- ERIM specific info (begin)-->
+
+At EUR we recommend researchers to use [EUR Yoda Vault](https://my.eur.nl/en/eur-employee/data-archiving-eur-yoda-vault) in order for reseachers to archive and preserve their data for verification purposes. 
+For any questions related EUR Yoda Vault or data preservation, please consult with the [ERIM Research Data Steward](data@erim.eur.nl). 
+
+<!-- ERIM specific info (end) -->
 
 If you need to preserve non-digital data (e.g. paper), consider whether digitalising the data is feasible or consult with data management support services in your institution.
 

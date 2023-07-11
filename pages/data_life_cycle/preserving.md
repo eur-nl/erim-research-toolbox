@@ -72,7 +72,7 @@ When preparing data for preservation several requirements need to be fulfilled.
 <!-- ERIM specific info (begin)-->
 
 At EUR we recommend researchers to use [EUR Yoda Vault](https://my.eur.nl/en/eur-employee/data-archiving-eur-yoda-vault) in order for reseachers to archive and preserve their data for verification purposes. 
-For any questions related EUR Yoda Vault or data preservation, please consult with the [ERIM Research Data Steward](data@erim.eur.nl). 
+For any questions related EUR Yoda Vault or data preservation, please consult with the ERIM Research Data Steward via <data@erim.eur.nl>. 
 
 <!-- ERIM specific info (end) -->
 

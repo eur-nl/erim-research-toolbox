@@ -1,4 +1,4 @@
----
+![image](https://github.com/eur-nl/erim-research-toolbox/assets/85296852/d759b725-33e5-42c7-9545-2e6a33d32223)---
 title: Processing
 # page_id: process
 description: Introduction to data processing.
@@ -47,3 +47,16 @@ The following considerations are important for data processing:
   - encoding formats used for data fields;
   - significance of empty fields and meaning of any special value;
   - all relationships between data fields (e.g. if a dataset contains "medication" and "disease", is that medication actually used to treat the disease? Or is it a medication that the patient is using for other reasons?).
+
+ <!-- ERIM focused information (begin) -->
+
+## Where do I store my data? 
+
+At EUR we have several storage solutions, depending on the type of data you are pocessing, these options can be found in the [EUR tooling page](https://my.eur.nl/en/eur-employee/research/research-services/research-data-management/tooling).
+For any questions related to which tood to use, please consult the [ERIM Research Data Steward](data@erim.eur.nl). 
+
+If you need to transfer data to a reseach colleague or anyone in your collaboration, please use [SURFfilesender](https://www.erim.eur.nl/research-integrity/rdm/tools-services/data-transfer/) to send research data, this will ensure the safety of your data. 
+
+<!-- ERIM focused information (end) -->
+
+    

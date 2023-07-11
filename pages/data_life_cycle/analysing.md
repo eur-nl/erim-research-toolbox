@@ -16,6 +16,22 @@ Data analysis consists in exploring the collected data to begin understanding th
 The steps of the workflow in the analysis phase will often be repeated several times to explore the data as well as to optimize the workflow itself.
 According to the different types of data (quantitative or qualitative) the data analysis methods will differ. Data analysis follows the (often automated, batch) data processing stage.
 
+<!-- ERIM specific info (begin)-->
+
+## What options do I have for analysing data as an ERIM member? 
+
+ERIM has several options for its researchers to help analysing data data: 
+
+- If you need IT Research Support, ERIM memebers can contact the [Research Software Engeneering & Consulting (RSEC)](https://my.eur.nl/en/rsm-employee/services-0/rsm-digitalisation-and-information-services-rdis/rdis-rsm-eur/it-research-support) group
+- A list of all the software EUR employees have access can be found here: [EUR licensed tools](https://my.eur.nl/en/eur-employee/work-support/it/software/clientsoftware-center-application-request)
+- [Data Processing Software](https://my.eur.nl/en/eur-employee/research/research-services/research-data-management/data-processing-software)
+- [Anonymisation/Pseudonomisation tools](https://my.eur.nl/en/eur-employee/research/research-services/research-data-management/anonymisation-research-data)
+- [Meta-Essentials](https://www.erim.eur.nl/research-support/meta-essentials/)
+- In case the software you need is not avaible, as an ERIM member, you can apply for funding via the [ERIM Support Programs (ESP)](https://www.erim.eur.nl/research-support/erim-support-programmes-esp/)
+
+
+<!-- ERIM specific info (end) -->
+
 ## Why is data analysis important?
 
 Since data analysis is the stage where new knowledge and information are generated, it can be considered as central in the research process. Because of the relevance of the data analysis stage in research findings, it is essential that the analysis workflow applied to a dataset complies with the FAIR principles. Moreover, it is extremely important that the analysis workflow is reproducible by other researchers and scientists.  

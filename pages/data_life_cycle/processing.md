@@ -2,7 +2,7 @@
 title: Processing
 # page_id: process
 description: Introduction to data processing.
-contributors: []
+contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 # related_pages:
 #   your_tasks: [data_analysis, data_organisation, data_quality, data_provenance]
 # training:
@@ -41,7 +41,7 @@ Data processing is important to ensure good quality of the collected data and to
 
 The following considerations are important for data processing:
 
-- sensitive data should be pseudonymised/anonymised. Not only should you remove the directly identifying data, but also be attentive to other sources e.g. names written on images;
+- sensitive data should be [pseudonymised/anonymised](https://my.eur.nl/en/eur-employee/research/research-services/research-data-management/anonymisation-research-data). Not only should you remove the directly identifying data, but also be attentive to other sources e.g. names written on images;
 - appropriate standards for encoding different data fields should be used;
 - all steps of encoding and anonymisation should be properly documented. E.g. consider recording:
   - encoding formats used for data fields;

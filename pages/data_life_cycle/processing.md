@@ -1,4 +1,4 @@
-![image](https://github.com/eur-nl/erim-research-toolbox/assets/85296852/d759b725-33e5-42c7-9545-2e6a33d32223)---
+---
 title: Processing
 # page_id: process
 description: Introduction to data processing.

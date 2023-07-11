@@ -2,7 +2,7 @@
 title: Analysing
 # related_pages:
 #   your_tasks: [data_analysis, data_organisation, storage, data_provenance]
-contributors: []
+contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 description: Introduction to data analysis.
 # training:
 #   - name: Training in TeSS

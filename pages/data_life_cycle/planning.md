@@ -1,6 +1,6 @@
 ---
 title: Planning
-description: Introduction to data management planning.
+description: Introduction to planning.
 # page_id: plan
 contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 # related_pages:
@@ -11,6 +11,14 @@ contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 #     registry: TeSS
 #     url: https://tess.elixir-europe.org/search?q=%22data+management+planning%22#materials
 ---
+
+
+<!-- ERIM focused information (begin) -->
+## What do I need to consider when planning my research?
+
+
+
+<!-- ERIM focused information (end) -->
 
 ## What is data management planning?
 
@@ -48,7 +56,7 @@ This template has been approved by NWO and ZonMw and it is also the default DMP 
 
 You can find a quick guide to DMPOnline [here](https://www.erim.eur.nl/research-integrity/rdm/policies-framework/dmponline-quickguide/).
 
-If you need support with your data mangement plan, please do not hesitate to contact ERIM's Research Data Steward at data@erim.eur.nl
+If you need support with your data mangement plan, please do not hesitate to contact ERIM's Research Data Steward at <data@erim.eur.nl>
 
 ## What should also be considered for research planning?
 

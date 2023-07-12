@@ -29,7 +29,11 @@ contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 
 Data collection is the process where information is gathered about specific variables of interest either using instrumentation or other methods (e.g. questionnaires, patient records). While data collection methods depend on the field and research subject, it is important to ensure data quality.
 
-You can also reuse existing data in your project. This can either be individual earlier collected datasets, reference data from curated resources or consensus data like reference genomes. For more information see [Reuse](reusing) in the data life cycle.
+You can also reuse existing data in your project. This can either be individual earlier collected datasets, reference data from curated resources or consensus data. For more information see [Reuse](reusing) in the data life cycle.
+
+## Why is data collection important?
+
+Apart from being the source of information to build your findings on, the collection phase lays the foundation for the quality of both the data and its documentation. It is important that the decisions made regarding quality measures are implemented, and that the collect procedures are appropriately recorded.
 
 <!-- ERIM specific info (begin)-->
 
@@ -43,11 +47,16 @@ ERIM has several options for its researchers to collect data:
 - [Erasmus Survey Centre](https://www.erim.eur.nl/research-support/erasmus-survey-centre-esc/)
 - [Erasmus Behavioural Lab (EBL)](https://ebl.eur.nl/)
 
-<!-- ERIM specific info (end) -->
 
-## Why is data collection important?
+## Where do I store my data? 
 
-Apart from being the source of information to build your findings on, the collection phase lays the foundation for the quality of both the data and its documentation. It is important that the decisions made regarding quality measures are implemented, and that the collect procedures are appropriately recorded.
+At EUR we have several storage solutions, depending on the type of data you are pocessing, these options can be found in the [EUR tooling page](https://my.eur.nl/en/eur-employee/research/research-services/research-data-management/tooling).
+For any questions related to which tood to use, please consult the ERIM Research Data Steward via <data@erim.eur.nl>. 
+
+If you need to transfer data to a reseach colleague or anyone in your collaboration, please use [SURFfilesender](https://www.erim.eur.nl/research-integrity/rdm/tools-services/data-transfer/) to send research data, this will ensure the safety of your data. 
+
+<!-- ERIM focused information (end) -->
+
 
 ## What should be considered for data collection?
 

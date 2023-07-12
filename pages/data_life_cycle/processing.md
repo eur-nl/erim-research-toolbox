@@ -41,22 +41,12 @@ Data processing is important to ensure good quality of the collected data and to
 
 The following considerations are important for data processing:
 
-- sensitive data should be [pseudonymised/anonymised](https://my.eur.nl/en/eur-employee/research/research-services/research-data-management/anonymisation-research-data). Not only should you remove the directly identifying data, but also be attentive to other sources e.g. names written on images;
+- sensitive data should be pseudonymised/anonymised. Not only should you remove the directly identifying data, but also be attentive to other sources e.g. names written on images;
 - appropriate standards for encoding different data fields should be used;
 - all steps of encoding and anonymisation should be properly documented. E.g. consider recording:
   - encoding formats used for data fields;
   - significance of empty fields and meaning of any special value;
   - all relationships between data fields (e.g. if a dataset contains "medication" and "disease", is that medication actually used to treat the disease? Or is it a medication that the patient is using for other reasons?).
 
-<!-- ERIM focused information (begin) -->
-
-## Where do I store my data? 
-
-At EUR we have several storage solutions, depending on the type of data you are pocessing, these options can be found in the [EUR tooling page](https://my.eur.nl/en/eur-employee/research/research-services/research-data-management/tooling).
-For any questions related to which tood to use, please consult the ERIM Research Data Steward via <data@erim.eur.nl>. 
-
-If you need to transfer data to a reseach colleague or anyone in your collaboration, please use [SURFfilesender](https://www.erim.eur.nl/research-integrity/rdm/tools-services/data-transfer/) to send research data, this will ensure the safety of your data. 
-
-<!-- ERIM focused information (end) -->
 
     

@@ -15,6 +15,9 @@ contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 
 <!-- ERIM focused information (begin) -->
 ## What do I need to consider when planning my research?
+All research projects need a data management plan, in some cases, depending on the data collected or the way the data is collected, you might need an ethical approval before you start your research. A quick overview on the most common cases when you need to apply for an ethical approval is showed below.
+--Image--
+
 
 
 
@@ -35,7 +38,7 @@ Common components of a DMP are:
 - costs and resources needed for data management;
 - ethical and legal issues, such as privacy, intellectual property and licences.
 
-## Why is data management planning important?
+<!-- ## Why is data management planning important?
 
 It is good research practice to take care of your research data and have a DMP. It will make your work more efficient, facilitate team work and use of services and tools. Moreover, a detailed DMP would help in making your research data more FAIR.
 Advantages of making a DMP:
@@ -46,7 +49,7 @@ Advantages of making a DMP:
 - it helps to identify risks in data handling and apply solutions at early stage;
 - it facilitates data sharing, reuse and preservation.
 
-<!-- ERIM focused information (begin) -->
+<!-- ERIM focused information (begin) --!>
 
 ## How to write a data management plan? 
 

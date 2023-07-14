@@ -32,22 +32,13 @@ Common components of a DMP are:
 
 - general information about the project;
 - description of the datasets that will be used and generated;
-- use of metadata, ontologies and the way data documentation will be provided;
-- storage solutions, data security and preservation strategy during and after the project;
+- use of metadata, ontologies and the way [data documentation](https://www.eur.nl/en/research/research-services/research-data-management/data-documentation) will be provided;
+- [storage solutions](https://www.eur.nl/en/research/research-services/research-data-management/tooling), data security, and preservation strategy during and after the project;
 - sharing of the data;
-- costs and resources needed for data management;
+- [costs and resources needed for data management](https://www.eur.nl/en/research/research-services/research-data-management/data-management-costs);
 - ethical and legal issues, such as privacy, intellectual property and licences.
 
-<!-- ## Why is data management planning important?
 
-It is good research practice to take care of your research data and have a DMP. It will make your work more efficient, facilitate team work and use of services and tools. Moreover, a detailed DMP would help in making your research data more FAIR.
-Advantages of making a DMP:
-
-- it is often a requirement of research organisations and funders;
-- it helps to plan and budget necessary resources and equipment;
-- it defines roles and responsibilities in data management among the project team;
-- it helps to identify risks in data handling and apply solutions at early stage;
-- it facilitates data sharing, reuse and preservation. -->
 
 <!-- ERIM focused information (begin) -->
 
@@ -71,6 +62,18 @@ In case you need funding support, please contact your [faculty funding team](htt
 <!-- ERIM focused information (end) -->
 
 <!-- This is now hidden
+
+## Why is data management planning important?
+
+It is good research practice to take care of your research data and have a DMP. It will make your work more efficient, facilitate team work and use of services and tools. Moreover, a detailed DMP would help in making your research data more FAIR.
+Advantages of making a DMP:
+
+- it is often a requirement of research organisations and funders;
+- it helps to plan and budget necessary resources and equipment;
+- it defines roles and responsibilities in data management among the project team;
+- it helps to identify risks in data handling and apply solutions at early stage;
+- it facilitates data sharing, reuse and preservation. 
+
 Several aspects should be taken into account when making a data management plan.
 
 - Research organisation and funders often require a DMP as part of the application for grants or later when the project is funded. Therefore, consider guidelines, policies and tools for data management planning required by your funder.

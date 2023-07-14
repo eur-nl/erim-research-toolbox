@@ -21,7 +21,7 @@ All research projects need a data management plan, in some cases, depending on t
 
 
 
-<!-- ERIM focused information (end) -->
+<!-- ERIM focused information (end) --!>
 
 ## What is data management planning?
 
@@ -68,7 +68,7 @@ In case you need funding support, please contact your [faculty funding team](htt
 
   
 
-<!-- ERIM focused information (end) -->
+<!-- ERIM focused information (end) --!>
 
 <!-- This is now hidden
 Several aspects should be taken into account when making a data management plan.
@@ -81,4 +81,4 @@ Several aspects should be taken into account when making a data management plan.
 
 - Due to the variety of aspects that need to be addressed in a DMP, it is better to find recommendations and obtain help from your institution support services, such as IT department, library, data managers or data stewards, legal or tech transfer team and data protection officer.
 
-- Explore best practices, guidelines, tools and resources for research data management described in this website. -->
+- Explore best practices, guidelines, tools and resources for research data management described in this website. --!>

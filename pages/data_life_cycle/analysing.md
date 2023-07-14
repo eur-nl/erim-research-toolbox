@@ -24,7 +24,7 @@ ERIM has several options for its researchers to help analysing data data:
 
 - If you need IT Research Support, ERIM memebers can contact the [Research Software Engeneering & Consulting (RSEC) group <sup><i class="fa-solid fa-lock"></i></sup>](https://my.eur.nl/en/rsm-employee/services-0/rsm-digitalisation-and-information-services-rdis/rdis-rsm-eur/it-research-support)
 - A list of all the software EUR employees have access can be found here: [EUR licensed tools <sup><i class="fa-solid fa-lock"></i></sup>](https://my.eur.nl/en/eur-employee/work-support/it/software/clientsoftware-center-application-request)
-- [Data Processing Software](https://my.eur.nl/en/eur-employee/research/research-services/research-data-management/data-processing-software)
+- [Data Processing Software](https://eur.nl/en/research/research-services/research-data-management/data-processing-software)
 - [Anonymisation/Pseudonomisation tools](https://my.eur.nl/en/eur-employee/research/research-services/research-data-management/anonymisation-research-data)
 - [Meta-Essentials](https://www.erim.eur.nl/research-support/meta-essentials/)
 - In case the software you need is not avaible, as an ERIM member, you can apply for funding via the [ERIM Support Programs (ESP)](https://www.erim.eur.nl/research-support/erim-support-programmes-esp/)

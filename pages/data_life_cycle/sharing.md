@@ -64,7 +64,7 @@ Based on the considerations listed above, you should be able to determine the ri
 
 ## What options do I have for sharing my data and materials as an ERIM member? 
 
-For open access article publishing, EUR has done a lot of deals with the most common publishers, so please check if your journal is already part of these deals, you can look for your journal in the [EUR Journal Browser](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjP2pr0o4mAAxWzXaQEHWQiBM8QFnoECBkQAQ&url=https%3A%2F%2Fwww.eur.nl%2Fen%2Flibrary%2Fresearch-support%2Fopen-access%2Fopen-access-eur%2Fpublisher-deals&usg=AOvVaw2DGgTBttoYteaEj6BEWjUd&opi=89978449)
+For open access article publishing, EUR has done a lot of deals with the most common publishers, so please check if your journal is already part of these deals, you can look for your journal in the [EUR Journal Browser](https://www.eur.nl/en/library/research-support/open-access/open-access-eur/publisher-deals)
 
 For open data and materials, at EUR we have an institutional repository on which you can upload your data and materials for free. The [EUR data repository (EDR)](https://datarepository.eur.nl/) is recommened if you don't already have a prefered or dicipline dependent repository. 
 One you have uploaded your data and materials to the EDR, you can then register them into your [PURE page](https://pure.eur.nl/), so that they appear as your reseach output.

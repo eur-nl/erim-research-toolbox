@@ -15,11 +15,7 @@ contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 
 <!-- ERIM focused information (begin) -->
 ## What do I need to consider when planning my research?
-All research projects need a data management plan, in some cases, depending on the data collected or the way the data is collected, you might need an ethical approval before you start your research. A quick overview on the most common cases when you need to apply for an ethical approval is showed below.
---Image--
-
-
-
+All research projects need a data management plan, in some cases, depending on the data collected or the way the data is collected, you might need an ethical approval before you start your research. A quick overview on the most common cases when you need to apply for an ethical approval can be found here <!-- Link to the new page with the decision tree for ethical applications -->.
 
 <!-- ERIM focused information (end) -->
 
@@ -44,13 +40,13 @@ Common components of a DMP are:
 
 ## How to write a data management plan? 
 
-At EUR we use a DMP template, which can be completed using [DMPonline-Erasmus](https://dmponline.eur.nl/). The template was created by the data management specialists at UL/EDSC and the EUR Research Data Stewards. 
-
-This template has been approved by NWO and ZonMw and it is also the default DMP format supported by the EUR. 
+At EUR we use a DMP template, which can be completed using [DMPonline-Erasmus](https://dmponline.eur.nl/). The template was created by the data management specialists at UL/EDSC and the EUR Research Data Stewards. This template ia also approved by NWO and ZonMw and it is also the default DMP format supported by the EUR. 
 
 You can find a quick guide to DMPOnline [here](https://www.erim.eur.nl/research-integrity/rdm/policies-framework/dmponline-quickguide/).
 
 If you need support with your data mangement plan, please do not hesitate to contact ERIM's Research Data Steward at <data@erim.eur.nl>
+
+For a more visual way of the main componenets of your data management plan, we have developed a data jouney diagram, you can find all about it here <!-- Link to the new page with the data journey -->.
 
 ## What should also be considered for research planning?
 

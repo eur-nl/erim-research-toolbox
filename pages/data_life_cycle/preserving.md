@@ -57,7 +57,7 @@ Not all data should be preserved. Preservation should be applied to an appropria
 
 - Contact the IT department or the library or the data center of your institution.
 - Check if national services are available.
-- Choose trustworthy research data repositories or deposition databases, based on your data type. Repositories could be publicly accessible and allow you to also publish your data. --!>
+- Choose trustworthy research data repositories or deposition databases, based on your data type. Repositories could be publicly accessible and allow you to also publish your data. -->
 
 When preparing data for preservation several requirements need to be fulfilled.
 
@@ -76,6 +76,6 @@ For any questions related EUR Yoda Vault or data preservation, please consult wi
 
 <!-- ERIM specific info (end) -->
 
-If you need to preserve non-digital data (e.g. paper), consider whether digitalising the data is feasible or consult with data management support services in your institution.
+<!--If you need to preserve non-digital data (e.g. paper), consider whether digitalising the data is feasible or consult with data management support services in your institution.
 
-If you need to preserve materials, such as micro-organisms, biomaterials or biomolecules, consult with data management support services in your institution to find appropriate centers or biobanks.
+If you need to preserve materials, such as micro-organisms, biomaterials or biomolecules, consult with data management support services in your institution to find appropriate centers or biobanks.-->

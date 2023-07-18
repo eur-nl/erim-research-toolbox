@@ -19,7 +19,7 @@ All research projects need a data management plan, in some cases, depending on t
 
 - Data management plan <!-- Link to the new page with the DMP -->
 - Privacy assessment <!-- Link to the new page with info about privacy -->
-- Ethical applications, when do I need an ethical approval <!-- Link to the new page with the decision tree for ethical applications -->
+- Ethical applications, when do I need an ethical approval? <!-- Link to the new page with the decision tree for ethical applications -->
 - Grant applications support, [faculty funding team](https://www.erim.eur.nl/research-support/funding/) 
 - [ERIM Support Programs](https://www.erim.eur.nl/research-support/erim-support-programmes-esp/)
 

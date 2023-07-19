@@ -21,10 +21,10 @@ At EUR we have several storage solutions, depending on the type of data you are 
 | **Storage Solution** | **Data type** | **Access Management** | 
 | ----- | --- | --- |
 | EUR Dropbox | Public data | Can be shared with externals|
-| EUR Yoda | Personal and senstive data | Can be shared with externals|
-| EUR Document Vault | Personal and highly senstive data | Can be shared with externals|
-| EUR SURF Research Drive | Personal and senstive data | Can be shared with externals|
-| EUR OneDrive | Personal and senstive data | Can only be shared within EUR|
+| EUR Yoda | Personal (senstive) data | Can be shared with externals|
+| EUR Document Vault | Personal  (highly senstive)  data | Can be shared with externals|
+| EUR SURF Research Drive | Personal (senstive) data | Can be shared with externals|
+| EUR OneDrive | Personal (senstive) data | Can only be shared within EUR|
 | EUR SURFdrive | Personal data | Can only be shared within Dutch universities|
 
 More information on each of these solutions can be found in the [EUR tooling page](https://www.eur.nl/en/research/research-services/research-data-management/tooling).

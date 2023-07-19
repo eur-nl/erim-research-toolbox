@@ -17,7 +17,7 @@ contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 ## What do I need to consider when planning my research?
 All research projects need a data management plan, in some cases, depending on the data collected or the way the data is collected, you might need a privacy assessment and an ethical approval before you start your research. 
 
-- Data management plan <!-- Link to the new page with the DMP -->
+- [Data management plan](dmp)
 - Privacy assessment <!-- Link to the new page with info about privacy -->
 - Ethical applications, when do I need an ethical approval? <!-- Link to the new page with the decision tree for ethical applications -->
 - Grant applications support, [faculty funding team](https://www.erim.eur.nl/research-support/funding/) 

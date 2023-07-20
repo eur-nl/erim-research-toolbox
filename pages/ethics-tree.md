@@ -14,4 +14,4 @@ Adhering to the requirements of NCCRI, ERIM has set up [internal review boards (
 
 ## When do I need an ethical approval?
 
-[!["A decision tree showing when to apply for an ethical approval"](assets/img/Ethics_tree_BigFont.jpg)](assets/files/Ethics_tree_BigFont.jpg)
+[!["A decision tree showing when to apply for an ethical approval"](assets/img/Ethics_tree_BigFont.jpg)](assets/img/Ethics_tree_BigFont.jpg)

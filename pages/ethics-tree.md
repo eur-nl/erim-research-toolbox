@@ -1,5 +1,5 @@
 ---
-title: Ethics Decision Tree
+title: Ethical application
 description: When to apply for an ethical approval
 contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 ---

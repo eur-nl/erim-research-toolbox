@@ -2,7 +2,7 @@
 title: Reusing
 # page_id: reuse
 description: Introduction to data reuse.
-contributors: [RDM Kit Team]
+contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 # related_pages:
 #   your_tasks:
 #     [
@@ -45,7 +45,7 @@ Reusing existing data implies checking the necessary conditions for reuse are me
 
 - Explore different sources for reusable data. A starting point can be to look for value added databases with curated content. Other possibilities include searching data deposition repositories for suitable datasets based on their annotation, or obtaining data directly from the author of a scientific article.
 - Check under which terms and conditions the data is shared. Make sure that there is a licence, and that the licence gives you permission to do what you intend to.
-- Check whether there is sufficient metadata to enable data reuse. Some types of data can be straightforward to reuse (e.g. genome data), while other may require extensive metadata to interpret and reuse (e.g. gene expression experiment data).
+- Check whether there is sufficient metadata to enable data reuse. Some types of data can be straightforward to reuse, while other may require extensive metadata to interpret and reuse.
 - Assess the quality of the data.
   - Evaluate if the data comes from a trusted source and if it is curated.
   - Check if the data adheres to a standard.

@@ -2,7 +2,7 @@
 title: Processing
 # page_id: process
 description: Introduction to data processing.
-contributors: [RDM Kit Team]
+contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 # related_pages:
 #   your_tasks: [data_analysis, data_organisation, data_quality, data_provenance]
 # training:
@@ -47,3 +47,6 @@ The following considerations are important for data processing:
   - encoding formats used for data fields;
   - significance of empty fields and meaning of any special value;
   - all relationships between data fields (e.g. if a dataset contains "medication" and "disease", is that medication actually used to treat the disease? Or is it a medication that the patient is using for other reasons?).
+
+
+    

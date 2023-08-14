@@ -3,7 +3,13 @@
 // #000847 ----- CMYK: 100/90/13/68
 // #d1882a ----- CMYK: 0/35/80/18
 // #b8c3c3 ----- CMYK: 15/10/10/15
-$primary: #000847;
+
+// Define ERIM colors
+$erim-blue: #000847;
+$erim-yellow: #d18829;
+$erim-grey: #b8c3c3;
+
+$primary: $erim-blue;
 $secondary: #111111;
 $light: #e2d9d7;
 $dark: #212529;
@@ -13,3 +19,4 @@ $link-decoration: none;
 $nav-link-color: $dark;
 $nav-link-hover-color: $primary;
 $font-family-sans-serif: "Museo Sans", sans-serif;
+$link-color: $erim-yellow;

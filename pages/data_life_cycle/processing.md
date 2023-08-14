@@ -18,14 +18,15 @@ Most of the safe storage solutions have back-up systems that use a synked versio
 
 At EUR we have several storage solutions, depending on the type of data you are pocessing.
 
-| **Storage Solution** | **Data type** | **Access Management** | 
-| ----- | --- | --- |
-| EUR Dropbox | Public data | Can be shared with externals|
-| EUR Yoda | Personal (senstive) data | Can be shared with externals|
-| EUR Document Vault | Personal  (highly senstive)  data | Can be shared with externals|
-| EUR SURF Research Drive | Personal (senstive) data | Can be shared with externals|
-| EUR OneDrive | Personal (senstive) data | Can only be shared within EUR|
-| EUR SURFdrive | Personal data | Can only be shared within Dutch universities|
+| **Storage Solution**    | **Personal/Sensitive Data** | **Collaborating Outside EUR**    |
+| ----------------------- | --------------------------- | -------------------------------- |
+| EUR Yoda                | ✅                          | ✅                               |
+| EUR Document Vault      | ✅ most secure              | ✅                               |
+| EUR SURF Research Drive | ✅                          | ✅                               |
+| EUR SharePoint/Teams          | ✅                          | ☑️ with guest access             |
+| EUR OneDrive            | ✅                          | ❌                               |
+| EUR SURFdrive           | ☑️ only personal data       | ☑️ only among Dutch universities |
+| EUR Dropbox             | ❌                          | ✅                               |
 
 More information on each of these solutions can be found in the [EUR tooling page](https://www.eur.nl/en/research/research-services/research-data-management/tooling).
 For any questions related to which tood to use, please consult the ERIM Research Data Steward via <data@erim.eur.nl>. 

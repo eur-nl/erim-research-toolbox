@@ -19,7 +19,7 @@ Common components of a DMP are:
 - general information about the project;
 - description of the datasets that will be used and generated;
 - use of metadata, ontologies and the way [data documentation](https://www.eur.nl/en/research/research-services/research-data-management/data-documentation) will be provided;
-- [storage solutions](https://www.eur.nl/en/research/research-services/research-data-management/tooling), data security, and preservation strategy during and after the project;
+- [storage solutions](processing), data security, and preservation strategy during and after the project;
 - sharing of the data;
 - [costs and resources needed for data management](https://www.eur.nl/en/research/research-services/research-data-management/data-management-costs);
 - ethical and legal issues, such as privacy, intellectual property and licences.

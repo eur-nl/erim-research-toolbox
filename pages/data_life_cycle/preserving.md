@@ -34,6 +34,18 @@ Data preservation consists of a series of activities necessary to ensure safety,
 - Change hardware and other storage media (such as paper, magnetic tape, etc.) to avoid degradation.
 - Ensure that data is organised and described with appropriate metadata and documentation to be always understandable and reusable.
 
+<!-- ERIM specific info (begin)-->
+
+## What options do I have for data preservation (archiving) as an ERIM member?
+
+At EUR we recommend researchers to use [EUR Yoda Vault](https://eur.nl/en/data-archiving-eur-yoda-vault) in order for reseachers to archive and preserve their data for verification purposes. 
+
+
+For any questions related EUR Yoda Vault or data preservation, please consult with the ERIM Research Data Steward via <data@erim.eur.nl>. 
+
+<!-- ERIM specific info (end) -->
+
+
 ## Why is data preservation important?
 
 There are several important reasons to preserve research data.
@@ -69,12 +81,7 @@ When preparing data for preservation several requirements need to be fulfilled.
 - Ensure that a consistent naming scheme is used.
 - Use [standard, open source, file formats](https://dans.knaw.nl/en/file-formats/) instead of proprietary ones.
 
-<!-- ERIM specific info (begin)-->
 
-At EUR we recommend researchers to use [EUR Yoda Vault](https://eur.nl/en/data-archiving-eur-yoda-vault) in order for reseachers to archive and preserve their data for verification purposes. 
-For any questions related EUR Yoda Vault or data preservation, please consult with the ERIM Research Data Steward via <data@erim.eur.nl>. 
-
-<!-- ERIM specific info (end) -->
 
 <!--If you need to preserve non-digital data (e.g. paper), consider whether digitalising the data is feasible or consult with data management support services in your institution.
 

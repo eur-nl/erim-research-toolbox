@@ -39,10 +39,14 @@ Data sharing can be done at any time during the research data life cycle but, at
 
 ## What options do I have for sharing my data and materials as an ERIM member? 
 
-For open access article publishing, EUR has done a lot of deals with the most common publishers, so please check if your journal is already part of these deals, you can look for your journal in the [EUR Journal Browser](https://www.eur.nl/en/library/research-support/open-access/open-access-eur/publisher-deals)
+For open access article publishing, EUR has done a lot of deals with the most common publishers, so please check if your journal is already part of these deals, you can look for your journal in the [EUR Journal Browser](https://www.eur.nl/en/library/research-support/open-access/open-access-eur/publisher-deals).
+
 
 For open data and materials, at EUR we have an institutional repository on which you can upload your data and materials for free. The [EUR data repository (EDR)](https://datarepository.eur.nl/) is recommened if you don't already have a prefered or dicipline dependent repository. 
-One you have uploaded your data and materials to the EDR, you can then register them into your [PURE page](https://pure.eur.nl/), so that they appear as your reseach output.
+
+
+Once you have uploaded your data and materials to the EDR, you can then register them into your [PURE page](https://pure.eur.nl/), so that they appear as your reseach output.
+
 
 If you need financial support to make your data or materials FAIR and open, please revise the [ERIM Support Programs (ESP)](https://www.erim.eur.nl/research-support/erim-support-programmes-esp/).
 

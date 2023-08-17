@@ -36,7 +36,7 @@ Data preservation consists of a series of activities necessary to ensure safety,
 
 <!-- ERIM specific info (begin)-->
 
-## What options do I have for data preservation (archiving) as an ERIM member?
+## What options do I have for data preservation as an ERIM member?
 
 At EUR we recommend researchers to use [EUR Yoda Vault](https://eur.nl/en/data-archiving-eur-yoda-vault) in order for reseachers to archive and preserve their data for verification purposes. 
 

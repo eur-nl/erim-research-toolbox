@@ -35,6 +35,23 @@ Sharing data means making your data known to other people.
 It’s important to know that data sharing doesn’t mean open data or public data. You can choose to share your data with restricted access or even closed access.
 Data sharing can be done at any time during the research data life cycle but, at the latest, data should be made available at the time of publication of articles that use the data to make scientific conclusions.
 
+  <!-- ERIM specific info (begin)-->
+
+## What options do I have for sharing my data and materials as an ERIM member? 
+
+For open access article publishing, EUR has done a lot of deals with the most common publishers, so please check if your journal is already part of these deals, you can look for your journal in the [EUR Journal Browser](https://www.eur.nl/en/library/research-support/open-access/open-access-eur/publisher-deals).
+
+
+For open data and materials, at EUR we have an institutional repository on which you can upload your data and materials for free. The [EUR data repository (EDR)](https://datarepository.eur.nl/) is recommened if you don't already have a prefered or dicipline dependent repository. 
+
+
+Once you have uploaded your data and materials to the EDR, you can then register them into your [PURE page](https://pure.eur.nl/), so that they appear as your reseach output.
+
+
+If you need financial support to make your data or materials FAIR and open, please revise the [ERIM Support Programs (ESP)](https://www.erim.eur.nl/research-support/erim-support-programmes-esp/).
+
+<!-- ERIM specific info (end) -->
+
 ## Why is data sharing important?
 
 Sharing of data is a cornerstone of good science. It is a good research practice to ensure that data underlying research is preserved and made available to the research community and society at large. Sharing data is a prerequisite for making your research reproducible. To be useful for others, you should strive to make the shared data adhere to the FAIR principles.
@@ -60,18 +77,6 @@ Based on the considerations listed above, you should be able to determine the ri
 - **Controlled access or Data Access Committees (DACs)**: data can only be shared with researchers, whose research is reviewed and approved by a Data Access Committee (DAC). DAC is an organization of one or more named individuals responsible for data release to external requestors based on specific criteria (research topics, allowed geographical regions, allowed recipients etc). Criteria established by DAC for data access are usually described on the website of the organization.
 - **Access upon request (not recommended)**: in order to manage this type of access a named contact is required for the dataset who would be responsible for making decisions about whether access is granted. The owner of the data must provide his/her contact in the documentation associated with the datasets (metadata). Metadata about the datasets must be open.
 
-  <!-- ERIM specific info (begin)-->
-
-## What options do I have for sharing my data and materials as an ERIM member? 
-
-For open access article publishing, EUR has done a lot of deals with the most common publishers, so please check if your journal is already part of these deals, you can look for your journal in the [EUR Journal Browser](https://www.eur.nl/en/library/research-support/open-access/open-access-eur/publisher-deals)
-
-For open data and materials, at EUR we have an institutional repository on which you can upload your data and materials for free. The [EUR data repository (EDR)](https://datarepository.eur.nl/) is recommened if you don't already have a prefered or dicipline dependent repository. 
-One you have uploaded your data and materials to the EDR, you can then register them into your [PURE page](https://pure.eur.nl/), so that they appear as your reseach output.
-
-If you need financial support to make your data or materials FAIR and open, please revise the [ERIM Support Programs (ESP)](https://www.erim.eur.nl/research-support/erim-support-programmes-esp/).
-
-<!-- ERIM specific info (end) -->
 
 <!-- Share and publish your data in professional deposition databases that provide the appropriate access type and licence.
 

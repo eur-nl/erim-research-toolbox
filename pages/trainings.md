@@ -9,9 +9,7 @@ contributors: [Dr. Nami Sunami, Dr. Lizette Guzman-Ramirez]
 
 ## Research Data Management related trainings 
 
-At EUR we offer several options to cover a vast range of needs related to learning and practicing research data management. 
-
-The following traignis are offer to all EUR reseachers: 
+At EUR we offer several options to cover a vast range of needs related to learning and practicing research data management. The following traignis are offer to all EUR reseachers: 
 
 [Watch your Research Data](https://www.eur.nl/en/research/research-services/research-data-management/watch-your-research-data)
 A 1.5 hours meetings that cover all you need to know about RDM, privacy, and security covering the main research phases: planning, collecting, preserving. 

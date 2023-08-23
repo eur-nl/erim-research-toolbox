@@ -20,4 +20,3 @@ Adhering to the requirements of NCCRI, ERIM has set up [internal review boards (
 
 How to deal with ethical dilemmas is not a simple task,that is why EUR developed a game called [the dilemma game app](https://www.eur.nl/en/about-eur/policy-and-regulations/integrity/research-integrity/dilemma-game), where you can find examples of real ethical dilemmas that reseachers, students, research support staff, etc. have experienced.
 
-For more dedicated support, please do not hesitate to contact [EUR's confidential counsellors](https://my.eur.nl/en/eur-employee/hr/healthy-safe-working/mental-and-social/undesirable-behaviour/confidential-counsellors?check_logged_in=1)

@@ -15,3 +15,8 @@ Adhering to the requirements of NCCRI, ERIM has set up [internal review boards (
 ## When do I need an ethical approval?
 
 [!["A decision tree showing when to apply for an ethical approval"](assets/img/ethics-decision-tree.png)](assets/files/ethics-decision-tree.pdf)
+
+## Ethical dilemmas
+
+How to deal with ethical dilemmas is not a simple task,that is why EUR developed a game called [the dilemma game app](https://www.eur.nl/en/about-eur/policy-and-regulations/integrity/research-integrity/dilemma-game), where you can find examples of real ethical dilemmas that reseachers, students, research support staff, etc. have experienced.
+

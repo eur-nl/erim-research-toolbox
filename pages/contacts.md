@@ -25,7 +25,7 @@ Anything related to contracts, legal agreements, non-dissclosure agreements, etc
 Anything realted to security measures. 
 
 [RSM Research Software Engeneers <sup><i class="fa-solid fa-lock"></i></sup>](https://my.eur.nl/en/rsm-employee/services-0/rsm-digitalisation-and-information-services-rdis/rdis-rsm-eur/it-research-support)  
-Anythign related to IT support for your research project.
+Anything related to specialised software or hardware support for your research project.
 
 [EUR Software management support <sup><i class="fa-solid fa-lock"></i></sup>](https://my.eur.nl/en/eur-employee/work-support/it/software)  
 Software products avaiable to staff and requests for new software
